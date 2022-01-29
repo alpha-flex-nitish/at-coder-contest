@@ -48,4 +48,4 @@ int main(){
     }
     cout << strap;
     return 0;
-}
+} 
